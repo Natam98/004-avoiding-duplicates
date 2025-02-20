@@ -1,4 +1,4 @@
-#  004 Avoiding Duplicates
+#  004  Avoiding Duplicates
 
 In this exercise, you will create a program that reads words from the user until the user enters a blank line. 
 After the user enters a blank line your program should dis- play each word entered by the user exactly once. 
